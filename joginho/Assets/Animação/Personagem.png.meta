@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: d79b30f44831a994b94870151487b82f
+timeCreated: 1528112444
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Personagem_0
+    21300002: Personagem_1
+    21300004: Personagem_18
+    21300006: Personagem_19
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personagem_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 408
+        width: 96
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Personagem_1
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 401
+        width: 67
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Personagem_18
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 401
+        width: 73
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Personagem_19
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 404
+        width: 78
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -71, y: 316}
+      - {x: -75, y: 315}
+      - {x: -87, y: 115}
+      - {x: -87, y: 54}
+      - {x: -29, y: 54}
+      - {x: -29, y: 316}
+    - - {x: 188, y: 322}
+      - {x: 188, y: 54}
+      - {x: 224, y: 54}
+      - {x: 228, y: 99}
+      - {x: 228, y: 322}
+    - - {x: 85, y: 57}
+      - {x: 111, y: 57}
+      - {x: 111, y: 318}
+      - {x: 105, y: 319}
+      - {x: 53, y: 319}
+      - {x: 53, y: 57}
+      - {x: 79, y: 57}
+      - {x: 81, y: 59}
+      - {x: 81, y: 93}
+      - {x: 83, y: 59}
+    - - {x: -161, y: 316}
+      - {x: -193, y: 316}
+      - {x: -196, y: 312}
+      - {x: -199, y: 249}
+      - {x: -223, y: 91}
+      - {x: -223, y: 60}
+      - {x: -141, y: 60}
+      - {x: -141, y: 171}
+      - {x: -145, y: 312}
+    physicsShape:
+    - - {x: -57, y: 68}
+      - {x: -57, y: 56}
+      - {x: -55, y: 54}
+      - {x: -31, y: 54}
+      - {x: -29, y: 55}
+      - {x: -29, y: 310}
+      - {x: -35, y: 316}
+      - {x: -63, y: 316}
+      - {x: -69, y: 311}
+      - {x: -71, y: 270}
+      - {x: -71, y: 249}
+      - {x: -77, y: 135}
+      - {x: -87, y: 75}
+      - {x: -87, y: 54}
+      - {x: -61, y: 54}
+      - {x: -59, y: 56}
+      - {x: -52, y: 97}
+      - {x: -46, y: 95}
+    - - {x: 224, y: 262}
+      - {x: 228, y: 273}
+      - {x: 228, y: 316}
+      - {x: 222, y: 322}
+      - {x: 193, y: 322}
+      - {x: 188, y: 316}
+      - {x: 188, y: 163}
+      - {x: 193, y: 161}
+      - {x: 193, y: 121}
+      - {x: 197, y: 117}
+      - {x: 188, y: 70}
+      - {x: 188, y: 54}
+      - {x: 216, y: 54}
+      - {x: 220, y: 158}
+      - {x: 228, y: 165}
+      - {x: 228, y: 257}
+    - - {x: 85, y: 57}
+      - {x: 109, y: 57}
+      - {x: 111, y: 59}
+      - {x: 111, y: 101}
+      - {x: 106, y: 120}
+      - {x: 106, y: 252}
+      - {x: 101, y: 259}
+      - {x: 106, y: 274}
+      - {x: 106, y: 312}
+      - {x: 99, y: 319}
+      - {x: 70, y: 319}
+      - {x: 64, y: 312}
+      - {x: 65, y: 271}
+      - {x: 64, y: 160}
+      - {x: 70, y: 158}
+      - {x: 53, y: 71}
+      - {x: 53, y: 59}
+      - {x: 55, y: 57}
+      - {x: 79, y: 57}
+      - {x: 81, y: 59}
+      - {x: 81, y: 93}
+      - {x: 83, y: 59}
+    - - {x: -164, y: 97}
+      - {x: -169, y: 74}
+      - {x: -169, y: 62}
+      - {x: -167, y: 60}
+      - {x: -143, y: 60}
+      - {x: -141, y: 62}
+      - {x: -141, y: 116}
+      - {x: -146, y: 135}
+      - {x: -152, y: 137}
+      - {x: -152, y: 249}
+      - {x: -154, y: 256}
+      - {x: -150, y: 310}
+      - {x: -161, y: 316}
+      - {x: -187, y: 316}
+      - {x: -193, y: 311}
+      - {x: -195, y: 271}
+      - {x: -189, y: 264}
+      - {x: -193, y: 248}
+      - {x: -199, y: 159}
+      - {x: -211, y: 111}
+      - {x: -223, y: 81}
+      - {x: -223, y: 60}
+      - {x: -195, y: 60}
+      - {x: -181, y: 109}
+      - {x: -176, y: 133}
+      - {x: -170, y: 109}
+  spritePackingTag: 200
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

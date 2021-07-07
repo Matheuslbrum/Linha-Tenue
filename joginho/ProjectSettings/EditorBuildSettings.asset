@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Cenarios/0menu.unity
+    guid: e7efdb6875a136b44bd9fef91abd78b8
+  - enabled: 1
+    path: Assets/Cenarios/1animinicial.unity
+    guid: 0cf4621f57d891c43abac8b5e60695ac
+  - enabled: 1
+    path: Assets/Cenarios/2quarto.unity
+    guid: fa4cac54afb4d1f4cb02805bf3aaf2ab
+  - enabled: 1
+    path: Assets/Cenarios/3corredor.unity
+    guid: 8716e5424ba9bd741b07c48d889064ab
+  - enabled: 1
+    path: Assets/Cenarios/4sala.unity
+    guid: 46ba9672002543a4683991837bf701bc
+  - enabled: 1
+    path: Assets/Cenarios/5cozinha.unity
+    guid: 18b298f8e1d51ef4cbea054d8adeabcd
+  - enabled: 1
+    path: Assets/Cenarios/6rua.unity
+    guid: 8317edabc72e7c94c9d647bf5ec78c4f
+  - enabled: 1
+    path: Assets/Cenarios/7cafe.unity
+    guid: ec202e4d1dd9bc84cb7025eec9fb791d
+  - enabled: 1
+    path: Assets/Cenarios/8loja.unity
+    guid: afd40d19123e6c44ab34fc152a6d6d72
+  - enabled: 1
+    path: Assets/Cenarios/finalbom.unity
+    guid: a6f9432872c90324da6cf36859ef066a
+  - enabled: 1
+    path: Assets/Cenarios/finalrum.unity
+    guid: 31adc8be33099254593f664528a01a58
+  - enabled: 1
+    path: Assets/Cenarios/BATIMENTOBOM.unity
+    guid: e390ca36384015d42a1aa67bafabae13
+  - enabled: 1
+    path: Assets/Cenarios/final1.unity
+    guid: e22c29512cb3b2b48851ad0d9f08d2ff
+  - enabled: 1
+    path: Assets/Cenarios/final2.unity
+    guid: 1876d2a598900254fb7525ee8d720e91
+  - enabled: 1
+    path: Assets/Cenarios/agradecimentos.unity
+    guid: 219351d3389fbcb49b708270aec13a05
+  m_configObjects: {}
