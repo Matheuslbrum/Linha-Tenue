@@ -44,12 +44,6 @@ Escolha o arquivo com logo da Unity
 
 ### Participantes
 
-Kai Araujo - Game Design
-Hellen Dantas - Arte Cenário
-Eduardo Marques - Arte Personagem
-Karini santos - Documentação
-Matheus Brum - Programação
-Beatriz Freire - Programação
-Luísa Matta - Programação
+Kai Araujo - Game Design, Hellen Dantas - Arte Cenário, Eduardo Marques - Arte Personagem, Karini santos - Documentação, Matheus Brum - Programação, Beatriz Freire - Programação, Luísa Matta - Programação.
 
 
